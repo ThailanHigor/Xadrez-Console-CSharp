@@ -1,1 +1,6 @@
 C:\Users\thail\Desktop\C#\xadrez-console\xadrez-console\bin\Debug\xadrez-console.exe.config
+C:\Users\thail\Desktop\C#\xadrez-console\xadrez-console\bin\Debug\xadrez-console.exe
+C:\Users\thail\Desktop\C#\xadrez-console\xadrez-console\bin\Debug\xadrez-console.pdb
+C:\Users\thail\Desktop\C#\xadrez-console\xadrez-console\obj\Debug\xadrez-console.csprojResolveAssemblyReference.cache
+C:\Users\thail\Desktop\C#\xadrez-console\xadrez-console\obj\Debug\xadrez-console.exe
+C:\Users\thail\Desktop\C#\xadrez-console\xadrez-console\obj\Debug\xadrez-console.pdb
